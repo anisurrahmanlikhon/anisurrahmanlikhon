@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/anisur028332" target="blank"><img src="https://img.shields.io/twitter/follow/anisur028332?logo=twitter&style=for-the-badge" alt="anisur028332" /></a> </p>
 
-- 🔭 I’m currently working on [**Circuit Designer at DCAClab**](https://dcaclab.com/users/28506/profile)
+- 🔭 I’m currently working on <a href="https://dcaclab.com/users/28506/profile" target="blank"><b>Electronics Circuit Design in DCAClab<b></a>
 
-- 🌱 I’ve completed **MSCSE at Cyber Security**
+- 🌱 I’ve completed <a href="https://cse.uiu.ac.bd/graduate-program/" target="blank"><b>M.Sc. in CSE at Cyber Security<b></a>
 
-- 👯 I’ve created Electronics Virtual Labs is [**Anis Virtual Labs**](https://anis-vlabs.labsland.com/)
+- 👯 I’ve created Electronics Virtual Labs is <a href="https://anis-vlabs.labsland.com/" target="blank"><b>Anis Virtual Labs<b></a>
 
-- 🤝 I’m teaching for help with [**C Programming Manual Tracing**](https://anisurrahmanlikhon.github.io/C-Programming-Manual-Tracing/)
+- 🤝 I’m teaching for help with <a href="https://anisurrahmanlikhon.github.io/C-Programming-Manual-Tracing/" target="blank"><b>C Programming Manual Tracing<b></a>
 
-- 👨‍💻 All of my projects are available at [**Github**](https://github.com/anisurrahmanlikhon/)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/anisurrahmanlikhon/" target="blank"><b>Github<b></a>
 
-- 📝 I regularly write articles on [**Academia**](https://uiu-bd.academia.edu/MdAnisurRahman)
+- 📝 I regularly write articles on <a href="https://uiu-bd.academia.edu/MdAnisurRahman" target="blank"><b>Academia<b></a>
 
 - 💬 Ask me about **Computer & Electronics Science**
 
-- 📫 How to reach me [**Programming24 School**](https://programming24.school.blog/)
+- 📫 How to reach me <a href="https://programming24.school.blog/" target="blank"><b>Programming24 School<b></a>
 
-- 📄 Know about my experiences [**My Portfolio**](https://poetanis.wixsite.com/md-anisur-rahman)
+- 📄 Know about my experiences <a href="https://poetanis.wixsite.com/md-anisur-rahman" target="blank"><b>My Portfolio<b></a>
 
 
 <h3 align="left">Connect with me:</h3>
