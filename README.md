@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anisur028332" target="blank"><img src="https://img.shields.io/twitter/follow/anisur028332?logo=twitter&style=for-the-badge" alt="anisur028332" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://dcaclab.com/users/28506/profile" target="blank"><b>Electronics Circuit Design in DCAClab<b></a>
+- 🔭 <b>I’m currently working on </b> <a href="https://dcaclab.com/users/28506/profile" target="blank"><b>Electronics Circuit Design in DCAClab<b></a>
 
 - 🌱 I’ve completed <a href="https://cse.uiu.ac.bd/graduate-program/" target="blank"><b>M.Sc. in CSE at Cyber Security<b></a>
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on <a href="https://uiu-bd.academia.edu/MdAnisurRahman" target="blank"><b>Academia<b></a>
 
-- 💬 Ask me about **Computer & Electronics Science**
+- 💬 About My Alma Meter: <a href="https://www.juniv.edu/institute/iit" target="blank"><b>IIT, Jahangirnagar University<b></a> And <a href="https://www.uiu.ac.bd/" target="blank"><b>UIU<b></a>
 
 - 📫 How to reach me <a href="https://programming24.school.blog/" target="blank"><b>Programming24 School<b></a>
 
