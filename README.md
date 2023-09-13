@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/anisur028332" target="blank"><img src="https://img.shields.io/twitter/follow/anisur028332?logo=twitter&style=for-the-badge" alt="anisur028332" /></a> </p>
 
+- 🔭 <b>I am Founder, Programmer and CEO at </b> <a href="https://programming24.school.blog/about-me" target="blank"><b>Programming24 School<b></a>
+
 - 🔭 <b>I’m currently working on </b> <a href="https://dcaclab.com/users/28506/profile" target="blank"><b>Electronics Circuit Design in DCAClab<b></a>
 
 - 🌱 I’ve completed <a href="https://cse.uiu.ac.bd/graduate-program/" target="blank"><b>M.Sc. in CSE at Cyber Security<b></a>
