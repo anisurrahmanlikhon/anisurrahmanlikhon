@@ -15,7 +15,7 @@
 
 - 👯 I’ve created Electronics Virtual Labs is <a href="https://anis-vlabs.labsland.com/" target="blank"><b>Anis Virtual Labs<b></a>
 
-- 🤝 I’m teaching for help with <a href="https://anisurrahmanlikhon.github.io/C-Programming-Manual-Tracing/" target="blank"><b>C Programming Manual Tracing<b></a>
+- 🤝 I’m teaching for help with <a href="https://anisurrahmanlikhon.github.io/C-Programming-Manual-Tracing/" target="blank"><b>C Programming Manual Tracing Compiler<b></a>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/anisurrahmanlikhon/" target="blank"><b>Github<b></a>
 
@@ -23,7 +23,7 @@
 
 - 💬 About My Alma Meter: <a href="https://www.juniv.edu/institute/iit" target="blank"><b>IIT, Jahangirnagar University<b></a> And <a href="https://www.uiu.ac.bd/" target="blank"><b>UIU<b></a>
 
-- 📫 How to reach me <a href="https://programming24.school.blog/about-me/" target="blank"><b>About Me<b></a>
+- 📫 How to reach me <a href="https://www.credly.com/users/md-anisur-rahman.eb73e6d4/badges" target="blank"><b>Cisco Credential<b></a>
 
 - 📄 Know about my experiences <a href="https://poetanis.wixsite.com/md-anisur-rahman" target="blank"><b>My Portfolio<b></a>
 
