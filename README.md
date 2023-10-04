@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Anisur Rahman Likhon</h1>
-<h3 align="center">Anis Virtual Labs || Programmer & Electronics Circuit Designer || Cyber Analyst</h3>
+<h3 align="center">Software Engineer || Programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anisurrahmanlikhon&label=Profile%20views&color=0e75b6&style=flat" alt="anisurrahmanlikhon" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/anisur028332" target="blank"><img src="https://img.shields.io/twitter/follow/anisur028332?logo=twitter&style=for-the-badge" alt="anisur028332" /></a> </p>
 
-- 🔭 <b>I am a Software Engineer at </b> <a href="https://softdev.school.blog/about-me" target="blank"><b>Software Development School<b></a>
+- 🔭 <b>I am a Software Engineer at </b> <a href="https://softdev.school.blog/about-me" target="blank"><b>Software Development Company<b></a>
 
 - 🔭 <b>I am Founder, Programmer and CEO at </b> <a href="https://programming24.school.blog/about-me" target="blank"><b>Programming24 School<b></a>
 
